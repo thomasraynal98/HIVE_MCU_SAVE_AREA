@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Dev/ROBOCLAW_ESP32_LINUX_COM"
+		},
+		{
+			"name": "MK4_MCU_MOTOR",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"variant": "cpp",
+			"array": "cpp",
+			"string": "cpp",
+			"string_view": "cpp",
+			"optional": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"system_error": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"iomanip": "cpp"
+		}
+	}
+}
